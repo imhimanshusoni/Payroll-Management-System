@@ -8,4 +8,5 @@ A Payroll Management System Project In Python Code is a system used by companies
 
 
 SUMMARY
+
 A Payroll Management software helps streamline and centralizes the salary payments of your organization. The software calculates salaries, tax deductions, incentives and bonuses etc by itself, sorts out the issues related to payments and deductions and records it digitally into its database.
